@@ -1,1 +1,1 @@
-# SapientXtTraining
+Training
